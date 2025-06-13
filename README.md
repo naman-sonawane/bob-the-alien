@@ -1,5 +1,6 @@
 ![PXL_20250613_173300470](https://github.com/user-attachments/assets/e99de2a8-19c7-4b9f-a44d-c2b9f704f7eb)
 # FocusMaxxer Candy Dispenser 🍬
+Built by Naman Sonawane & Deming Chen
 
 Arduino-based productivity tool that rewards focused work with candy. Uses AI to detect distractions and RGB eyes to show mood.
 
@@ -37,5 +38,3 @@ API_ENDPOINT=your_ai_api_endpoint
 4. Press ENTER to start session
 5. Stay focused - avoid distracting websites/apps
 6. Complete session → get candy! 🍬
-
-Built by Naman Sonawane & Deming Chen
